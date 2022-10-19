@@ -1,2 +1,2 @@
 # vendor-issues-kb
-vendor-issues-kb by amplication
+vendor-issues-kb leveraging amplication
